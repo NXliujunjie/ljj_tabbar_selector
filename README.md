@@ -1,17 +1,19 @@
-ljj_tabbar_selector
 
-导航选择器
 
-使用说明
+# ljj_tabbar_selector
 
-导入:
+# 导航选择器
+
+# 使用说明
+
+# 导入:
   dependencies:
   ljj_tabbar_selector:
     git:
       url: https://github.com/NXliujunjie/ljj_tabbar.git
 
 
-使用示例:
+# 使用示例:
  class _MyHomePageState extends State<MyHomePage> {
   List<Tab> listOne = List();
   List<Widget> listTwo = List();
@@ -43,7 +45,7 @@ ljj_tabbar_selector
   }
 }
 
-自定义属性
+# 自定义属性
 ///APPBar 背景色
     Color backgroundColor = Colors.blue,
 
