@@ -51,7 +51,8 @@
 ```
 
 # 自定义属性
-///APPBar 背景色
+```
+    ///APPBar 背景色
     Color backgroundColor = Colors.blue,
 
     ///AppBar高度
@@ -77,3 +78,4 @@
 
     ///tabbar 选择条字体的颜色 未选中状态
     Color itemNormalColor = Colors.grey,
+    ```
