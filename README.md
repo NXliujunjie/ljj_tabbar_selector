@@ -7,10 +7,12 @@
 # 使用说明
 
 # 导入:
+```
   dependencies:
   ljj_tabbar_selector:
     git:
       url: https://github.com/NXliujunjie/ljj_tabbar.git
+```
 
 
 # 使用示例:
