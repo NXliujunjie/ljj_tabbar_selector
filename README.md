@@ -3,6 +3,7 @@
 # ljj_tabbar_selector
 
 # 导航选择器
+![image](图片的绝对路径)
 
 # 使用说明
 
