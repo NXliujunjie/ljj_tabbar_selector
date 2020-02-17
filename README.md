@@ -3,7 +3,7 @@
 # ljj_tabbar_selector
 
 # 导航选择器
-![image](https://github.com/NXliujunjie/ljj_tabbar_selector/blob/master/test1.png)
+![image](https://github.com/NXliujunjie/ljj_tabbar_selector/blob/master/testPage1.png)
 
 # 使用说明
 
