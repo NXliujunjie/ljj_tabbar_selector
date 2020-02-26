@@ -8,9 +8,7 @@
 # 使用说明
 
 # 导入:
-```
-  ![image](https://github.com/NXliujunjie/ljj_tabbar_selector/blob/master/page.png)
-  dependencies:
+```  dependencies:
   ljj_tabbar_selector:
     git:
       url: https://github.com/NXliujunjie/ljj_tabbar.git
